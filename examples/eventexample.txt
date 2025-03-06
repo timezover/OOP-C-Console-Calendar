@@ -1,0 +1,2 @@
+58194:[<name>]Birthday[<date>]23.06.2001[<timestart>][<timeend>][<place>]Club[<tag>]#18 #cool #YOLO[<text>][<frequency>]Annual[<attendance>]Mandatory[<participant>]
+05311:[<name>]Semestral work passing[<date>]01.06.2023[<timestart>]10:00[<timeend>]12:00[<place>]FIT[<tag>]#scary[<text>][<frequency>]One-time[<attendance>]Mandatory[<participant>]

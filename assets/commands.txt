@@ -1,0 +1,12 @@
+/help-1
+/calendar-4 
+/set event-3
+/get events-3
+/find event-2
+/del event find-2
+/del event all-3
+/set id-3
+/del id-3
+/time-1
+/date-1
+/clear-1

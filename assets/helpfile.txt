@@ -1,0 +1,13 @@
+
+	/calendar - show calendar for a specific day, month or year
+	/set event - create an event	
+	/get events - display all events
+	/find event - find and display events based on certain parameters
+	/set id - set specific attribute for the event based on id
+	/del id - discard an event
+	/del event all - discard all events
+	/time - display current time
+	/date - display current date
+	/clear - clear terminal
+	/exit - exit the application
+
